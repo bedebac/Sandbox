@@ -1,0 +1,26 @@
+﻿Nomor,Deskripsi Transaksi,Akun,Kategori,Nominal,Tarif Baru
+1,Parkir motor penghuni,Pendapatan sewa parkir motor,Pendapatan,50000,0
+2,Renov kecil area dapur,"Biaya renovasi kecil (cat, perbaikan pintu) ",Pengeluaran,-400000,0
+3,Sewa kos bulanan,Pendapatan sewa kos bulanan,Pendapatan,1200000,0
+4,Tagihan air kos,Tagihan / biaya air PAM Bulanan,Pengeluaran,-150000,0
+5,Sewa ruang usaha warung,Pendapatan sewa ruang usaha warung,Pendapatan,850000,0
+6,Denda bayar kamar,Pendapatan denda keterlambatan bayar,Pendapatan,25000,0
+7,Denda terlambat bayar,Pendapatan denda keterlambatan bayar,Pendapatan,20000,0
+8,Beli obat flu,Pengeluaran / Pembelian obat ,Pengeluaran,-30000,0
+9,Perubahan Harga Kamar Kos,Penyesuaian / Perubahan Biaya Pembangunan Kamar Kos,Tarif Baru,1500000,1500000
+10,Sewa area parkir,Pendapatan sewa parkir motor,Pendapatan,20000,0
+11,Pendapatan sewa bulanan kos,Pendapatan sewa kos bulanan,Pendapatan,1200000,0
+12,Internet kos,Biaya bulanan layanan internet & Wi-Fi ,Pengeluaran,-300000,0
+13,Renovasi cat area ruang tamu,"Biaya renovasi kecil (cat, perbaikan pintu) ",Pengeluaran,-1500000,0
+14,Kunjungan ke dokter,Biaya kunjungan dokter karena sakit ,Pengeluaran,-95000,0
+15,Wifi & internet bulanan,Biaya bulanan layanan internet & Wi-Fi ,Pengeluaran,-350000,0
+16,Pemeliharaan bangunan dan kamar kos,Biaya pemeliharaan bangunan dan kamar kos ,Pengeluaran,-450000,0
+17,Sewa ruang kecil untuk warung,Pendapatan sewa ruang usaha warung,Pendapatan,500000,0
+18,Kenaikan Harga Pembuatan / Pembangunan Kamar Kos per unit,Penyesuaian / Perubahan Biaya Pembangunan Kamar Kos,Tarif Baru,20000000,20000000
+19,Pendapatan Sewa Kamar,Pendapatan sewa kos bulanan,Pendapatan,1200000,0
+20,Listrik Bulan Februari,Biaya listrik bulanan ,Pengeluaran,-600000,0
+21,Sewa parkir mobil,Pendapatan sewa parkir mobil,Pendapatan,150000,0
+22,Penyesuaian Sewa Kamar Kos,Penyesuaian / Perubahan Tarif atau Harga Sewa Kos ,Tarif Baru,1500000,1500000
+23,Laundry kos,Pendapatan laundry penghuni,Pendapatan,80000,0
+24,Tagihan listrik,Biaya listrik bulanan ,Pengeluaran,-600000,0
+25,Biaya perawatan bangunan,Biaya pemeliharaan bangunan dan kamar kos ,Pengeluaran,-500000,0
